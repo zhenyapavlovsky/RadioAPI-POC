@@ -22,3 +22,9 @@ Investigate Radio API
 ## Project Description
 
 This project investigates the capabilities of the Radio API by creating a small application that displays a list of radio stations. The main page showcases radio stations with image icons, titles, and comma-separated tags. The navigation bar includes a country flag selector, allowing users to filter radio stations by country. Pagination is implemented to load more stations as the user scrolls. Additionally, a default search functionality enables users to search for radio stations within the selected country. When a radio station is selected, a detailed StationView is displayed with a large image, play/pause button, and the real sizes of the image. The RadioPlayer engine from [FRadioPlayer](https://github.com/fethica/FRadioPlayer) is integrated to handle audio playback.
+
+### Search for Stations without Country Selection
+[![Search for Stations without Country Selection](https://github.com/user-attachments/assets/b075a8b4-df1c-4455-903b-90779982d641)
+
+### Search for Stations for Selected Country
+[![Search for Stations for Selected Country](https://github.com/user-attachments/assets/441f5513-9939-41b7-85c9-f96765af9a91)
